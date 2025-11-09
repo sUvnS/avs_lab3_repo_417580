@@ -1,0 +1,15 @@
+*   0ee634c Merge branch 'feature2' into main
+|\  
+| * 4a710b2 feature2 change
+* |   1b35e83 Merge branch 'feature1' into main
+|\ \  
+| * | cece96f feature1 change
+| |/  
+* / 3ea685e feat: requirements.txt add "zachet"
+|/  
+* de24c5c add requirements.txt 5
+* f1827f3 add requirements.txt 4
+* e9e5df2 add requirements.txt 3
+* e35cfbe add requirements.txt 2
+* eb12639 add requirements.txt 1
+* 4b5b5a5 init
